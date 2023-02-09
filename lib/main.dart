@@ -54,7 +54,7 @@ class SplashScreen extends StatelessWidget {
       ),
 
       /// body as text in center
-
+      //ashik made some changes
       // body: Center(
       //   child: Text(
       //     "MY STORE",
